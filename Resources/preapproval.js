@@ -16,6 +16,7 @@ function addButtonToWindow() {
         win.remove(button);
         button = null;
     }
+    
     button = Paypal.createPaypalButton({
         // NOTE: height/width only determine the size of the view that the button is embedded in - the actual button size
         // is determined by the buttonStyle property!
