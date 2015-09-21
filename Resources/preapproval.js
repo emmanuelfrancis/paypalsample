@@ -10,6 +10,7 @@ var status = Ti.UI.createLabel({
 win.add(status);
 
 var button;
+
 function addButtonToWindow() {
     if (button) {
         win.remove(button);
