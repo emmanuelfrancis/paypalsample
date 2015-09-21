@@ -1,0 +1,1 @@
+/EF/EFWorkspace/Emmanuel/aem/Drapple/Workspace/paypalsample/Resources/simple.js
